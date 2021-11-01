@@ -6,6 +6,7 @@
 - We can add data attributes by using naming such as 'data-key' or 'data-___'
 - MDN notes on Document.querySelector() [here](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 - Not only are there click events, but we have transition events that we can access as well
+- MDN notes on transitionend events [here](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/transitionend_event)
 
 ## Overview
 
